@@ -1,8 +1,3 @@
-<h1>Ada</h1>   
-
-A Modern Landing page template built with Tailwindcss and Tailus Themer
-
-<img src="public/cover.png" />
 
 ## Features 
 
